@@ -5,13 +5,13 @@ global.apikey = 'isi apikey lu'
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
 global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'ShinySebastian'
+global.namaowner = 'Rizzxxyy'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = '6285701174864'
+global.nomorlu = '6285701174864'
+global.ownernomer = ["6285701174864"]
+global.premium = ['6285701175864']
 
 //—————「 Set Wm 」—————//
 global.packname = 'GabutBot-Reborn'
