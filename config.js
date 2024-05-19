@@ -36,7 +36,7 @@ prem: '*Premium only!! Silahkan beli premium di nomor owner!*',
 //—————「 Set Limit 」—————//
 global.limitawal = {
     premium: "Infinity",
-    free: 25,
+    free: 9999999,
 }
 
 //—————「 Set Image 」—————//
